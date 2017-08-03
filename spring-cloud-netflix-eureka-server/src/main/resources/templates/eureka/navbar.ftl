@@ -17,22 +17,43 @@
         </div>
     </div>
     <#--替换-->
-    <div class="col-md-6">
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- eureka-server -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-8254913025324557"
-             data-ad-slot="2955989929"
-             data-ad-format="auto"></ins>
-        <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
+    <div class="col-md-3">
+        <div style="margin-left: 30px;margin-top: 20px;">
+            <h3>参考资料</h3>
+            <div>
+                <li><a href="http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/" target="_blank">Spring Boot基础教程</a></li>
+                <li><a href="http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/" target="_blank">Spring Cloud基础教程</a></li>
+            </div>
+            <br>
+            <h3>关注我</h3>
+            <div>
+                <li class="foot-li">
+                    <a href="https://github.com/dyc87112" target="_blank">Github</a>
+                </li>
+                <li class="foot-li">
+                    <a href="http://git.oschina.net/didispace" target="_blank">码云</a>
+                </li>
+                <li class="foot-li">
+                    <a href="http://www.jianshu.com/u/6a622d516e32" target="_blank">简书</a>
+                </li>
+                <li class="foot-li">
+                    <a href="https://www.zhihu.com/people/di-yong-chao-86" target="_blank">知乎</a>
+                </li>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div style="margin-left: 30px;margin-top: 20px;">
+            <h3>公众号</h3>
+            <img style="width: 80px;" src="http://blog.didispace.com/css/images/weixin.jpg" />
+            <br><br>
+            <h3>我的书</h3>
+            <script type="text/javascript">var jd_union_pid="956083303";var jd_union_euid="";</script><script type="text/javascript" src="//ads-union.jd.com/static/js/union.js"></script>
+        </div>
     </div>
 </div>
 <br>
 <hr>
-<br>
 <h1>System Status</h1>
 <div class="row">
   <div class="col-md-6">
@@ -104,3 +125,16 @@
   </#list>
 </ul>
 
+<div class="row" style="text-align: center;">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- eureka-server -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-8254913025324557"
+         data-ad-slot="2955989929"
+         data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+<br>
