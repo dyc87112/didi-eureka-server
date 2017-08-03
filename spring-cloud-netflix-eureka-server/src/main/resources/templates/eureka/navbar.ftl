@@ -14,6 +14,9 @@
                 <li>可能存在运行不稳定而重启等风险，请勿将该注册中心用于您的生产配置中。</li>
                 <li>同时，为了保障大家使用的顺畅，使用者请勿对本注册中心进行压力测试。</li>
             </div>
+            <div style="margin-top: 20px;">
+                P.S. 如在学习与使用过程中遇到困难，就来<a href="http://spring4all.com" target="_blank">Spring For All社区</a>探讨交流。
+            </div>
         </div>
     </div>
     <#--替换-->
