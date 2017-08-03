@@ -12,6 +12,7 @@
 	<name>Spring Cloud Netflix Eureka Server</name>
 	<url>https://projects.spring.io/spring-cloud/</url>
 	<properties>
+		<maven.test.skip>true</maven.test.skip>
 		<main.basedir>${basedir}/..</main.basedir>
 		<wro4j.version>1.7.9</wro4j.version>
 	</properties>
