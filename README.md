@@ -1,6 +1,8 @@
-#didi-eureka-server
+## didi-eureka-server
 
 该项目是我[博客](http://eureka.didispace.com)中的公益Eureka注册中心
+
+Dashboard：http://eureka.didispace.com/
 
 ## 如何使用
 
