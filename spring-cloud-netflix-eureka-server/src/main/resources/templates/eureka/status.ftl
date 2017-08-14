@@ -18,7 +18,7 @@
 
   <body id="one">
     <#include "header.ftl">
-    <div class="container-fluid xd-container">
+    <div class="container-fluid xd-container" style="margin-bottom: 10px;">
       <#include "navbar.ftl">
       <h1>Instances currently registered with Eureka</h1>
       <table id='instances' class="table table-striped table-hover">
@@ -135,6 +135,32 @@
     </script>
 
     <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+    <div class="row" style="text-align: center;">
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- eureka-server-bottom -->
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-client="ca-pub-8254913025324557"
+           data-ad-slot="7666911039"
+           data-ad-format="auto"></ins>
+      <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
+
+    <#--changyan -->
+    <div id="SOHUCS" ></div>
+    <script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
+    <script type="text/javascript">
+        window.changyan.api.config({
+            appid: 'cysUhh1Hu',
+            conf: 'prod_08161dc143f28514db917a0fa4a34b91'
+        });
+    </script>
+    <#--changyan shiyanshi-->
+    <script type="text/javascript" charset="utf-8" src="https://changyan.itc.cn/js/lib/jquery.js"></script>
+    <script type="text/javascript" charset="utf-8" src="https://changyan.sohu.com/js/changyan.labs.https.js?appid=cysUhh1Hu"></script>
 
   </body>
 </html>

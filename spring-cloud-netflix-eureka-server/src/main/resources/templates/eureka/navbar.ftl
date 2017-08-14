@@ -43,6 +43,7 @@
                     <a href="https://www.zhihu.com/people/di-yong-chao-86" target="_blank">知乎</a>
                 </li>
             </div>
+
         </div>
     </div>
     <div class="col-md-3">
@@ -53,6 +54,9 @@
             <h3>我的书</h3>
             <script type="text/javascript">var jd_union_pid="956083303";var jd_union_euid="";</script><script type="text/javascript" src="//ads-union.jd.com/static/js/union.js"></script>
         </div>
+    </div>
+    <div class="col-md-12" style="text-align: center;">
+        <div id="cyReward" role="cylabs" data-use="reward"></div>
     </div>
 </div>
 <br>
